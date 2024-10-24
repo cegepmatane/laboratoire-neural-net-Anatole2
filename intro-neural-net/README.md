@@ -1,30 +1,30 @@
 ***A VISUAL GUIDE***
 
 Train your dragon : <br>
-![image](https://github.com/user-attachments/assets/ae3a10ad-6154-4ffc-a0de-a86c6b49a3e4)
+![image](https://github.com/user-attachments/assets/1d2e91dc-1eac-4a14-9106-ef2cae29d509)
 
 
 
 Automation : <br>
-![image](https://github.com/user-attachments/assets/81e25355-3664-4565-97c7-704565522251)
+![image](https://github.com/user-attachments/assets/2359a3bd-53bc-49a2-8e37-2093cf1c911a)
 
 
 
 Two : <br>
-![image](https://github.com/user-attachments/assets/88ba4e49-2e1d-45f3-8496-e712957bf7a1)
+![image](https://github.com/user-attachments/assets/11bd45e6-623c-49e9-803f-5f1d34074367)
 
 
 **SIMULATEURS de NEURONES** <br>
-Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments/assets/d0502b0e-d3ed-4115-9fed-93a93db73cca)
-OU : ![image](https://github.com/user-attachments/assets/0cc72878-2d78-4841-ac43-4f0d6db33e9a)
-NOT : ![image](https://github.com/user-attachments/assets/9271345a-c449-4a28-9cba-0804b385e6f3)
+Simulateur de neurone simple : ET : ![image](https://github.com/user-attachments/assets/99c0b379-1799-4e80-952d-c08640bb7943)
+OU : ![image](https://github.com/user-attachments/assets/54201126-5f38-4a16-a7a7-9a91bb513828)
+NOT : ![image](https://github.com/user-attachments/assets/e4132762-b836-4bd4-b96f-e4621c0e7a04)
 
 Simnulateur de perceptron : <br>
-XOR : ![image](https://github.com/user-attachments/assets/1f9cb792-233c-4ac3-b69c-36f49984e94a)
+XOR : ![image](https://github.com/user-attachments/assets/4b1000fb-d08a-47a7-bac6-5182d89237dc)
 
 **NUAGES de TENSOR FLOW** <br>
-Nuage pour droite : ![image](https://github.com/user-attachments/assets/b09197d9-6657-4a09-90f5-9f07dc544091)
+Nuage pour droite : ![image](https://github.com/user-attachments/assets/70b32792-7bd2-4ae0-8513-a98cb7c341ef)
 
-Multi-zone : ![image](https://github.com/user-attachments/assets/7ccc7a9b-719d-4cc1-b55d-a271d42890a7)
+Multi-zone : ![image](https://github.com/user-attachments/assets/f0e94874-9519-415b-8525-55286d323315)
 
-Contrentrique : ![image](https://github.com/user-attachments/assets/8a901a12-7166-4adc-b93f-4213dde17469)
+Contrentrique : ![image](https://github.com/user-attachments/assets/73dc0303-ac1d-4f52-adce-477a5aab2d8f)
